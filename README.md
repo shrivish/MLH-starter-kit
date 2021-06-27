@@ -1,2 +1,2 @@
 # MLH-starter-kit
-Its an easy starter kit website. it uses Bootstrap. U can edit it anytime!!
+Its an easy starter kit website. It uses Bootsrap. U can edit it anytime!!
